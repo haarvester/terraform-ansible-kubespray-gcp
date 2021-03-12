@@ -1,6 +1,0 @@
-## Additional container arguments
-extraArgs:
-  - --enable-insecure-login
-
-## Serve application over HTTP without TLS
-protocolHttp: true
